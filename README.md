@@ -11,3 +11,7 @@ Deployment procedure
 
 ## changes for
 Checking the Demo of merge tool
+#Working Directory
+Checking the Demo 
+##Staging Directory
+Checking for Directory
