@@ -15,3 +15,5 @@ Checking the Demo of merge tool
 Checking the Demo 
 ##Staging Directory
 Checking for Directory
+##Copy right
+adding copyright
