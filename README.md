@@ -17,3 +17,5 @@ Checking the Demo
 Checking for Directory
 ##Copy right
 adding copyright
+#Note
+Adding file in master and in branch too.
